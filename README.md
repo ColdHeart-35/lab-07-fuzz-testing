@@ -15,3 +15,6 @@ python -m pytest -q test_processor.py
 ```
 
 Hypothesis tests generate malformed types, arbitrary text, and numeric edge cases. The supplied handout PDF did not include the referenced starter `processor.py`; these functions and their contracts were reconstructed for the lab. The report calls this out and distinguishes the handout's demonstrated parser bug from the added examples.
+## GitHub
+
+Project repository: https://github.com/ColdHeart-35/lab-07-fuzz-testing
